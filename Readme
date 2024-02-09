@@ -1,0 +1,20 @@
+# Rock Paper Scissor
+
+-This is a game where the players chose different moves (that are Rock Paper Scissor) and the one whose move defeats other once move wins.
+
+--Rules
+
+1. Rock beats Scissor as you can break it by rock.
+2. Paper beats Rock because you can wrap it by paper.
+3. Scissors can cut Papers. So Scissors can beat paper.
+
+
+-To make this game we will need two players, Computer and User.
+
+-User can pick their move from web interface but we will need to program our computer to make it able to randomly choose its move.
+And then we will compare Users move with computer's move and show the Result.
+
+## let's play! ROCK PAPER SCISSOR 
+
+
+
